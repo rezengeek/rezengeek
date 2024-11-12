@@ -3,6 +3,8 @@
 ###
 
 ### I'm a Front-End developer from ***João Pessoa, Brasil.***
+
+<img align="right" width="200" height="150" src="https://i.pinimg.com/736x/70/3b/06/703b06ee21b448a9d30313d1e17400a9.jpg"/>
 <br>
 <p align="left">- 🔭 I'm working as a volunteer developer at <a href="https://github.com/codigocerto"> Codigo Certo Coders</a>. <br>- 💡 I'm with friends developing a startup called <a href="https://github.com/cafeeme">Cafee.me</a>. A platform that allows<br>content creators to receive financial support from their audience. <br>- 📚 I'm currently learning English.<br>- ⚡ In my free time I go to the beach, sing and play music ...</p>
 

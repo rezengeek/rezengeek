@@ -77,4 +77,4 @@
 <img src="https://raw.githubusercontent.com/rezengeek/rezengeek/output/snake.svg" alt="Snake animation" />
 
 ###
-<img align="center" src="https://i.pinimg.com/originals/8d/b7/46/8db746ea0f28bdd22eae8b3ee10ac16a.gif" />
+<img align="center" width="640" height="200" src="https://i.pinimg.com/originals/8d/b7/46/8db746ea0f28bdd22eae8b3ee10ac16a.gif" />

@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/10/ac/b5/10acb51778420a47b80f35d01ed8b9d1.gif"  />
+<img align="right" width="150" height="150" src="https://i.pinimg.com/originals/10/ac/b5/10acb51778420a47b80f35d01ed8b9d1.gif"  />
 
 ###
 

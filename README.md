@@ -2,8 +2,11 @@
 
 ###
 
-<img align="right" width="350" height="200" src="https://i.pinimg.com/originals/10/ac/b5/10acb51778420a47b80f35d01ed8b9d1.gif"  />
-### I'm a Front-End developer from ***João Pessoa, Brasil.***<br><br>
+
+### I'm a Front-End developer from ***João Pessoa, Brasil.***
+
+<img align="right" src="https://i.pinimg.com/originals/fa/de/06/fade06fdb98c309859796fb0e764ab0d.gif"  />
+<br><br>
 <p align="left">- 🔭 I'm working as a volunteer developer at <a href="https://github.com/codigocerto"> Codigo Certo Coders</a>. <br>- 💡 I'm with friends developing a startup called <a href="https://github.com/cafeeme">Cafee.me</a>. A platform that allows<br>content creators to receive financial support from their audience. <br>- 📚 I'm currently learning English.<br>- ⚡ In my free time I go to the beach, sing and play music ...</p>
 
 ###

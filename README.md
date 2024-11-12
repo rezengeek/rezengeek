@@ -4,7 +4,7 @@
 
 
 ### I'm a Front-End developer from ***João Pessoa, Brasil.***<br><br>
-<p align="left">- 🔭 I'm working as a volunteer developer at <a href="https://github.com/codigocerto" target="_blank"> Codigo Certo Coders</a> <br>- 💡 I'm with friends developing a startup called <a href="https://github.com/cafeeme" target="_blank">Cafee.me</a>. A platform that allows<br>content creators to receive financial support from their audience. <br>- 📚 I'm currently learning English...<br>- ⚡ In my free time I go to the beach, sing and play music ...</p>
+<p align="left">- 🔭 I'm working as a volunteer developer at <a href="https://github.com/codigocerto"> Codigo Certo Coders</a> <br>- 💡 I'm with friends developing a startup called <a href="https://github.com/cafeeme">Cafee.me</a>. A platform that allows<br>content creators to receive financial support from their audience. <br>- 📚 I'm currently learning English...<br>- ⚡ In my free time I go to the beach, sing and play music ...</p>
 
 ###
 
